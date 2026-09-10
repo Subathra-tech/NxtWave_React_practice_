@@ -9,7 +9,7 @@ Each folder in the root directory represents a standalone practice project or as
 To clone this repository locally, run:
 
 ```bash
-git clone https://github.com/Karthikanegouni/NxtWave_React_practice.git
+git clone https://github.com/Subathra-tech/NxtWave_React_practice.git
 cd NxtWave_React_practice
 ```
 
